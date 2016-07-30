@@ -77,3 +77,8 @@ Olde Skuul
 
 Seattle, WA
 
+=====================
+Fork information
+=====================
+
+With the intention of bringing this port the justice it deserves, I have forked it as an invitation for others to come in and help out with the work that needs to be done for this port to work properly.
